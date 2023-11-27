@@ -10,7 +10,7 @@
 Устанавливаем и активируем виртуальное окружение
 
     python3 -m venv venv
-    . venv/bin/activate
+    . venv/Scripts/activate
 
 
 Инициализируем git
