@@ -2,4 +2,8 @@
 
 {% block content %}
 
+{% for todo in todo_list %}
+    <p>{{ todo.title }}</p>
+{% endfor %}
+
 {% endblock content %}
