@@ -1,4 +1,4 @@
-# 3webapp_todo-Django (by Терехов Михаил)
+# three web applications: Django (by Терехов Михаил)
 Простой ToDo менеджер, реализованный на веб-фреймворке Django
 В качестве веб-интерфейса использован фреймворк Semantic UI https://semantic-ui.com/
 
